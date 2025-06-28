@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Spooky-1-Symbols")(type "KiCad")(uri "${KIPRJMOD}/Spooky-1-Symbols.kicad_sym")(options "")(descr ""))
+)
